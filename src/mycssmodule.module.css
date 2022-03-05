@@ -1,0 +1,23 @@
+.myStyle {
+    color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+    gap: 2rem;
+    padding: 2rem;
+  }
+
+.address {
+    color: darkgreen;
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.company {
+    display: flex;
+    gap: 5px;
+    color: darkmagenta;
+    flex-wrap: wrap;
+}
